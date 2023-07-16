@@ -8,10 +8,5 @@
 
 ### License 
 <p align="left">
-    <img src="https://img.shields.io/github/license/Kunal-Diwan/SEVEN?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/license/theriturajps/SEVEN?style=for-the-badge&logo=appveyor" alt="LICENSE">
 </p>
-
-### Developer 
-
-[![Kunal Diwan](https://img.shields.io/badge/Kunal-Diwan-yellow?style=for-the-badge&logo=github)](https://github.com/Kunal-Diwan) 
-[![Kunal Diwan](https://img.shields.io/badge/Kunal-Diwan-green?style=for-the-badge&logo=telegram)](https://t.me/KunalDiwan)
